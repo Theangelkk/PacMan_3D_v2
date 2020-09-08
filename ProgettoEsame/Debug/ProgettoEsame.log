@@ -1,0 +1,67 @@
+﻿  Bonus.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\bonus.cpp(110): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+  CallBack.cpp
+  Coin.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\coin.cpp(10): warning C4305: 'inizializzazione': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\coin.cpp(22): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+  ControllerPlayer.cpp
+  GestoreNemici.cpp
+  GestoreScena.cpp
+  GestoreUtente.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\gestoreutente.cpp(286): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\gestoreutente.cpp(287): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  Livelli.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\livelli.cpp(146): warning C4554: '|': controllare eventuali errori di precedenza tra gli operatori. Per maggiore chiarezza, usare le parentesi
+  Main.cpp
+  MenuGame.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\menugame.cpp(377): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\menugame.cpp(427): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\menugame.cpp(476): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\menugame.cpp(508): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\menugame.cpp(510): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\menugame.cpp(561): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Nemico.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\nemico.cpp(117): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\nemico.cpp(118): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  RegoleGame.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\regolegame.cpp(105): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\regolegame.cpp(107): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\regolegame.cpp(188): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\regolegame.cpp(368): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  RichiestaGUI.cpp
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(146): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(146): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(159): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(159): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(194): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(194): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(245): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(280): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(281): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(282): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(290): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(291): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(292): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(300): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(301): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(302): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(305): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(305): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(306): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(306): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(307): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(307): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(330): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(332): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(516): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(516): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(528): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(528): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(538): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\public\documents\computer graphics\progettoesame\progettoesame\richiestagui.cpp(538): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+  Generazione del codice in corso...
+soil.lib(image_DXT.obj) : warning LNK4099: impossibile trovare il PDB 'SOIL.pdb' con 'soil.lib(image_DXT.obj)' o in 'C:\Users\Public\Documents\Computer Graphics\ProgettoEsame\Debug\SOIL.pdb'; oggetto collegato senza informazioni di debug
+soil.lib(image_helper.obj) : warning LNK4099: impossibile trovare il PDB 'SOIL.pdb' con 'soil.lib(image_helper.obj)' o in 'C:\Users\Public\Documents\Computer Graphics\ProgettoEsame\Debug\SOIL.pdb'; oggetto collegato senza informazioni di debug
+soil.lib(SOIL.obj) : warning LNK4099: impossibile trovare il PDB 'SOIL.pdb' con 'soil.lib(SOIL.obj)' o in 'C:\Users\Public\Documents\Computer Graphics\ProgettoEsame\Debug\SOIL.pdb'; oggetto collegato senza informazioni di debug
+soil.lib(stb_image_aug.obj) : warning LNK4099: impossibile trovare il PDB 'SOIL.pdb' con 'soil.lib(stb_image_aug.obj)' o in 'C:\Users\Public\Documents\Computer Graphics\ProgettoEsame\Debug\SOIL.pdb'; oggetto collegato senza informazioni di debug
+  ProgettoEsame.vcxproj -> C:\Users\Public\Documents\Computer Graphics\ProgettoEsame\Debug\ProgettoEsame.exe

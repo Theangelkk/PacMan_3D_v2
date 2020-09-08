@@ -1,0 +1,7 @@
+﻿  MenuGame.cpp
+c:\users\ciro\desktop\magistrale\computer graphics\8.0\progettoesame\menugame.cpp(379): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\ciro\desktop\magistrale\computer graphics\8.0\progettoesame\menugame.cpp(429): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\ciro\desktop\magistrale\computer graphics\8.0\progettoesame\menugame.cpp(478): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\ciro\desktop\magistrale\computer graphics\8.0\progettoesame\menugame.cpp(510): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+c:\users\ciro\desktop\magistrale\computer graphics\8.0\progettoesame\menugame.cpp(512): warning C4244: 'argomento': conversione da 'GLdouble' a 'GLfloat'. Possibile perdita di dati.
+  ProgettoEsame.vcxproj -> C:\Users\ciro\Desktop\Magistrale\Computer Graphics\8.0\x64\Debug\ProgettoEsame.exe
